@@ -14,7 +14,7 @@
 
 # Go workspace file
 go.work
-
+.gitignore
 # Dependency directories
 vendor/
 
